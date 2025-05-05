@@ -1,0 +1,15 @@
+{
+    "name": "cloud-computing",
+    "version": "1.0.0",
+    "description": "Simple Express App for Railway Deployment",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
